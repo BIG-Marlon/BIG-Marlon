@@ -14,8 +14,7 @@ Desenvolvimento de sites e aplicações web
 Projetos que envolvam ensino e aprendizado de programação
 
 📫 Como entrar em contato comigo...
-[Seu email]
-[Seu perfil no LinkedIn ou outra rede social profissional]
+marlonluccas337333@outlook.com
 
 ⚡ Curiosidade:
 Adoro aprender e explorar novas tecnologias
